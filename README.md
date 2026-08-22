@@ -50,14 +50,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noel-Reeves-E&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noel-Reeves-E&layout=compact&theme=tokyonight&hide_border=true" alt="Top langs" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noel-Reeves-E&theme=tokyo-night&hide_border=true&bg_color=transparent" alt="Contribution activity graph" width="100%"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Noel-Reeves-E&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Noel-Reeves-E&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <a href="https://github.com/Noel-Reeves-E">
+    <img src="https://komarev.com/ghpvc/?username=Noel-Reeves-E&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  </a>
 </p>
 <p align="center">
   <picture>
