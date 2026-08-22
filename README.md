@@ -50,15 +50,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Noel-Reeves-E&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Noel-Reeves-E&layout=compact&theme=tokyonight&hide_border=true" alt="Top langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Noel-Reeves-E&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noel-Reeves-E&layout=compact&theme=tokyonight&hide_border=true" alt="Top langs" height="165"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Noel-Reeves-E&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noel-Reeves-E&theme=tokyonight" alt="Profile details" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Noel-Reeves-E&theme=tokyonight" alt="Productive time" width="49%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Noel-Reeves-E&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
 <p align="center">
   <picture>
