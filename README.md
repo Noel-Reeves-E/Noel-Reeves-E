@@ -50,7 +50,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noel-Reeves-E&theme=tokyo-night&hide_border=true&bg_color=transparent" alt="Contribution activity graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noel-Reeves-E&theme=tokyo-night&hide_border=true&bg_color=transparent&area=true&custom_title=My%20Life's%20Contribution" alt="My Life's Contribution" width="100%"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Noel-Reeves-E&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
